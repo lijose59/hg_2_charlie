@@ -7,4 +7,4 @@ result = [100,200,300,400,500,600,700]
 alias1 = ["qux"]
 alias2 = ["thud"]
 result =  result[:5] + alias1 + alias2 + result[5:]
-print (result)
+print (result) 
